@@ -1,6 +1,5 @@
-Flask
-Flask-Cors
+requirements.txt
+fastapi
+uvicorn[standard]
 requests
 beautifulsoup4
-feedparser
-gunicorn
